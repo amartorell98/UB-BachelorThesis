@@ -8,4 +8,7 @@ are needed to further explore the useful properties behind ARCH and GARCH. We pu
 special emphasis in developing a consistent theory of Estimation and Forecasting (i.e
 determinate the parameters of a model and predict future values) for Time Series Analysis,
 which serves as a justification for estimating and predicting ARCH and GARCH models.
-Practical examples are given using the R statistics package.
+Practical examples are given using the R statistics package. 
+
+In this repository, find most of the code used for the practical part of this thesis submitted for the Bachelor's Degree
+in Mathematics. 
